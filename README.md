@@ -8,16 +8,6 @@ Sou estudante de tecnologia com foco em **dados, análise, qualidade da informa�
 
 ---
 
-## 🚀 Sobre mim
-
-Atualmente atuo na área de **Qualidade de Dados**, lidando com validação, organização e análise de informações, além da criação de relatórios e apoio à tomada de decisão.
-
-Tenho experiência com processos, dados estruturados e visão de negócio, desenvolvida tanto em contextos técnicos quanto operacionais, incluindo atuação em empresa de inteligência de mercado como a :contentReference[oaicite:0]{index=0}.
-
-Meu foco é evoluir continuamente nas áreas de **Dados, BI, Qualidade e Tecnologia**, aplicando boas práticas e aprendendo novas ferramentas.
-
----
-
 ## 🧠 Principais competências
 
 ### 📊 Dados & Análise
