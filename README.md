@@ -32,16 +32,4 @@ Sou estudante de tecnologia com foco em **dados, análise, qualidade da informa�
 
 ---
 
-## 📌 Sobre este GitHub
-
-Este repositório reúne:
-- Projetos acadêmicos  
-- Estudos práticos em **dados e programação**
-- Experimentos com **análise, visualização e automação**
-- Aplicação de conceitos aprendidos na graduação e no ambiente profissional  
-
-📈 Meu objetivo aqui é **demonstrar evolução técnica, raciocínio lógico e organização de código**, mais do que apenas resultados finais.
-
----
-
 ⭐ *Aberto a oportunidades nas áreas de Dados, BI, Qualidade e Tecnologia.*
