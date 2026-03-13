@@ -1,8 +1,8 @@
-# Giovanny Santos
+# 👨🏻‍💻 Giovanny Santos
 
 **`Analista de Dados`**
 
-Me chamo Giovanny Da Silva Santos, tenho 20 anos e sou natural de Santos, SP. Atualmente, estou cursando Sistemas de Informação e atuo como estagiário de Qualidade de Dados. Além disso, concluí um curso de Operador de Logística. Sou apaixonado por tecnologia e por aprender coisas novas, sempre buscando desenvolver minhas habilidades e aplicar meus conhecimentos em projetos práticos.
+Me chamo Giovanny, tenho 20 anos e sou natural de Santos, SP. Atualmente, estou cursando Sistemas de Informação e atuo como estagiário de Qualidade de Dados. Além disso, concluí um curso de Operador de Logística. Sou apaixonado por tecnologia e por aprender coisas novas, sempre buscando desenvolver minhas habilidades e aplicar meus conhecimentos em projetos práticos.
 
 <p align="left">
   <a href="https://github.com/Giovanny-santos?tab=followers">
@@ -33,19 +33,11 @@ Me chamo Giovanny Da Silva Santos, tenho 20 anos e sou natural de Santos, SP. At
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
@@ -57,19 +49,19 @@ Me chamo Giovanny Da Silva Santos, tenho 20 anos e sou natural de Santos, SP. At
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="HTML"
+    title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Git" 
+    title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
     align="left" 
