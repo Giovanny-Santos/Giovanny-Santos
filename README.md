@@ -19,10 +19,10 @@ Me chamo Giovanny, tenho 20 anos e sou natural de Santos, SP. Atualmente, estou 
         src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Giovanny-santos?tab=followers">
+    <a href="[https://github.com/Giovanny-santos?tab=followers](https://www.linkedin.com/in/giovanny2550/)">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+            alt="Linkdin" 
+            title="Me siga no Linkdin" 
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-connect-blue?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0077B5"/>
     </a>
 </p>
