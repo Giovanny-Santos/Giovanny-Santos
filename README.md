@@ -9,14 +9,13 @@ Me chamo Giovanny, tenho 20 anos e sou natural de Santos, SP. Atualmente, estou 
       <img 
       alt="Seguidoress" 
       title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Seguidores&logo=github&logoColor=white&style=for-the-badge&labelColor=CE4630"         />
-    </a> 
+    <img src="https://custom-icon-badges.demolab.com/github/followers/Giovanny-Santos?color=%23E05D44&label=Seguidores&logo=github&logoColor=white&style=for-the-badge&labelColor=CE4630" />  </a> 
     <a 
         href="https://github.com/Giovanny-Santos?tab=repositories&sort=stargazers">
         <img 
         alt="Total de estrelas" 
         title="Total de estrelas GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        src="https://custom-icon-badges.demolab.com/github/stars/Giovanny-Santos?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://www.linkedin.com/in/giovanny2550/">
