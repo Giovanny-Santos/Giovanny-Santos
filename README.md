@@ -2,7 +2,7 @@
 
 **`Analista de Dados`**
 
-Me chamo Giovanny, tenho 20 anos e sou natural de Santos, SP. Atualmente, estou cursando Sistemas de Informação e atuo como estagiário de Qualidade de Dados. Além disso, concluí um curso de Operador de Logística. Sou apaixonado por tecnologia e por aprender coisas novas, sempre buscando desenvolver minhas habilidades e aplicar meus conhecimentos em projetos práticos.
+Me chamo Giovanny, tenho 24 anos e sou natural de Santos, SP. Atualmente, estou cursando Sistemas de Informação e atuo como estagiário de Qualidade de Dados. Além disso, concluí um curso de Operador de Logística. Sou apaixonado por tecnologia e por aprender coisas novas, sempre buscando desenvolver minhas habilidades e aplicar meus conhecimentos em projetos práticos.
 
 <p align="left">
   <a href="https://github.com/Giovanny-santos?tab=followers">
