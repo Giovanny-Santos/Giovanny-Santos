@@ -40,8 +40,8 @@ Me chamo Giovanny, tenho 24 anos e sou natural de Santos, SP. Atualmente, estou 
 />
 <img 
     align="left" 
-    alt="PANDAS" 
-    title="PANDAS"
+    alt="Pandas" 
+    title="Pandas"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
@@ -102,13 +102,6 @@ Me chamo Giovanny, tenho 24 anos e sou natural de Santos, SP. Atualmente, estou 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-      alt="Jupyter" 
-    title="Jupyter"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
 <br/>
 
 ### 📊 Estatísticas
