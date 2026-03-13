@@ -9,7 +9,7 @@ Me chamo Giovanny, tenho 20 anos e sou natural de Santos, SP. Atualmente, estou 
       <img 
       alt="Seguidoress" 
       title="Me siga no GitHub" 
-    <img src="https://custom-icon-badges.demolab.com/github/followers/Giovanny-Santos?color=%23E05D44&label=Seguidores&logo=github&logoColor=white&style=for-the-badge&labelColor=CE4630" />  </a> 
+    <img src="https://custom-icon-badges.demolab.com/github/followers/Giovanny-Santos?color=%23E05D44&label=Github&logo=github&logoColor=white&style=for-the-badge&labelColor=CE4630" />  </a> 
     <a 
         href="https://github.com/Giovanny-Santos?tab=repositories&sort=stargazers">
         <img 
